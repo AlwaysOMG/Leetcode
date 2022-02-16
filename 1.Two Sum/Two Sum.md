@@ -28,9 +28,9 @@ Output: [0,1]
 ```
 
 **Constraints:**
-- <table><tr><td bgcolor=#ffffff><!-- $2\leq\mathrm{nums.length}\leq10^4$ --> <img style="transform: translateY(0.1em); background: white; color: yellow" src="svg\MBg0w2btcZ.svg"></td></tr></table>
-- <table><tr><td bgcolor=#ffffff><!-- $-10^9\leq\mathrm{nums}\left[i\right]\leq10^9$ --> <img style="transform: translateY(0.1em); background: white;" src="svg\neympIz3XT.svg"></td></tr></table>
-- <table><tr><td bgcolor=#ffffff><!-- $-10^9\leq\mathrm{target}\leq10^9$ --> <img style="transform: translateY(0.1em); background: white;" src="svg\kQBALEWwkM.svg"></td></tr></table>
+- <!-- $2\leq\mathrm{nums.length}\leq10^4$ --> <img style="transform: translateY(0.1em); background: white;" src="svg\MBg0w2btcZ.svg">
+- <!-- $-10^9\leq\mathrm{nums}\left[i\right]\leq10^9$ --> <img style="transform: translateY(0.1em); background: white;" src="svg\neympIz3XT.svg">
+- <!-- $-10^9\leq\mathrm{target}\leq10^9$ --> <img style="transform: translateY(0.1em); background: white;" src="svg\kQBALEWwkM.svg">
 - **Only one valid answer exists.**
 
 **Follow-up:**\
