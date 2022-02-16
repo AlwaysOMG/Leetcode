@@ -1,11 +1,8 @@
 # Two Sum
 
 ## **Problem**
-
-Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
-
-You may assume that each input would have exactly one solution, and you may not use the same element twice.
-
+Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.\
+You may assume that each input would have exactly one solution, and you may not use the same element twice.\
 You can return the answer in any order.
 
 **Example 1:**
@@ -28,12 +25,12 @@ Output: [0,1]
 ```
 
 **Constraints:**
-- <!-- $2\leq\mathrm{nums.length}\leq10^4$ --> <img style="transform: translateY(0.1em); background: white;" src="svg\MBg0w2btcZ.svg">
-- <!-- $-10^9\leq\mathrm{nums}\left[i\right]\leq10^9$ --> <img style="transform: translateY(0.1em); background: white;" src="svg\neympIz3XT.svg">
-- <!-- $-10^9\leq\mathrm{target}\leq10^9$ --> <img style="transform: translateY(0.1em); background: white;" src="svg\kQBALEWwkM.svg">
+- 2 <= nums.length <= 10<sup>4</sup>
+- -10<sup>9</sup> <= nums[i] <= 10<sup>9</sup>
+- -10<sup>9</sup> <= target <= 10<sup>9</sup>
 - **Only one valid answer exists.**
 
 **Follow-up:**\
-Can you come up with an algorithm that is less than <!-- $O(n^2)$ --> <img style="transform: translateY(0.1em); background: white;" src="svg\8xtv7tt1gK.svg"> time complexity?
+Can you come up with an algorithm that is less than O(n<sup>2</sup>) time complexity?
 
 ## **Solution**
