@@ -28,12 +28,12 @@ Output: [0,1]
 ```
 
 **Constraints:**
-- $2 \leq$ nums.length $\leq 10^4$
-- $-10^9 \leq$ nums $\left[i\right]\leq 10^9$
-- $-10^9 \leq$ target $\leq 10^9$
+- <!-- $2\leq\mathrm{nums.length}\leq10^4$ --> <img style="transform: translateY(0.1em); background: white;" src="svg\MBg0w2btcZ.svg">
+- <!-- $-10^9\leq\mathrm{nums}\left[i\right]\leq10^9$ --> <img style="transform: translateY(0.1em); background: white;" src="svg\neympIz3XT.svg">
+- <!-- $-10^9\leq\mathrm{target}\leq10^9$ --> <img style="transform: translateY(0.1em); background: white;" src="svg\kQBALEWwkM.svg">
 - **Only one valid answer exists.**
- 
+
 **Follow-up:**\
-Can you come up with an algorithm that is less than $O(n^2)$ time complexity?
+Can you come up with an algorithm that is less than <!-- $O(n^2)$ --> <img style="transform: translateY(0.1em); background: white;" src="svg\8xtv7tt1gK.svg"> time complexity?
 
 ## **Solution**
